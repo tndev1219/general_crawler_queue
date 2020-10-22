@@ -1,0 +1,6 @@
+node_modules
+dump.rdb
+.python-version
+apify_storage/datasets/*
+yarn.lock
+package-lock.json

@@ -1,0 +1,38 @@
+{
+    "name": "general-crawler-queue",
+    "version": "1.0.0",
+    "description": "Aliexpress.com and Banggood scraper.",
+    "main": "src/server.js",
+    "dependencies": {
+        "apify": "^0.16.0",
+        "aws-sdk": "^2.655.0",
+        "axios": "^0.19.2",
+        "bluebird": "^3.7.1",
+        "body-parser": "^1.19.0",
+        "bull": "^3.7.0",
+        "bull-board": "^0.6.0",
+        "cheerio": "^1.0.0-rc.3",
+        "cors": "^2.8.5",
+        "express": "^4.16.4",
+        "foreman": "^3.0.1",
+        "https-proxy-agent": "^3.0.0",
+        "lodash": "^4.17.15",
+        "lz-string": "^1.4.4",
+        "moment": "^2.24.0",
+        "mysql": "^2.17.1",
+        "safe-eval": "^0.4.1",
+        "superagent": "^5.2.2",
+        "superagent-proxy": "^2.0.0",
+        "throng": "^4.0.0",
+        "url": "^0.11.0",
+        "uuid": "^3.4.0"
+    },
+    "scripts": {
+        "start": "nf start"
+    },
+    "author": "Top Notch",
+    "license": "ISC",
+    "devDependencies": {
+        "dotenv": "^8.2.0"
+    }
+}

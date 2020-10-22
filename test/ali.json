@@ -1,0 +1,2291 @@
+{
+    "data": {
+      "actionModule": {
+        "addToCartUrl": "//shoppingcart.aliexpress.com/addToShopcart4Js.htm",
+        "aeOrderFrom": "main_detail",
+        "allowVisitorAddCart": false,
+        "cartDetailUrl": "//shoppingcart.aliexpress.com/shopcart/shopcartDetail.htm",
+        "categoryId": 200000865,
+        "companyId": 243506668,
+        "confirmOrderUrl": "//shoppingcart.aliexpress.com/order/confirm_order.htm",
+        "features": {},
+        "i18nMap": {
+          "WISH_MAX_NOTICE": "Oops, sembra che hai già raggiunto l'elenco esaustivo.",
+          "BUYER_ABLE": "Questa funzionalità è disponibile solo per gli acquirenti.",
+          "WISHLIST_SAVE_BUTTON": "Save",
+          "WISH_MOVE_TO_ANOTHER_LIST_TIPS": "Sposta in un’altra lista",
+          "ADD_X_MORE": "Congratulazioni! Hai guadagnato <div class=\"before-coin-count\"></div>{coinCount} monete. Oggi hai {number} possibilità di continuare a guadagnare monete.",
+          "SC_ADD_SUCC": "È stato aggiunto un nuovo articolo al tuo carrello.",
+          "WISHLIST_PUBLIC_NOTICE": "(Chiunque può vedere questa lista e condividere)",
+          "WISH_DETAULT_LIST": "wish List",
+          "WISH_CREATE_LIST": "Creare una lista dei desideri",
+          "WL_ERROR": "Il sistema è occupato, riprova.",
+          "WISH_NAME_ALREADY_USE": "Questo nome Wish List è già in uso.",
+          "WISH_REVISELIST": "Edit Your List",
+          "SC_ADD_FAILED": "Non è stato possibile procedere all'aggiunta, ti preghiamo di aggiornare la pagina e cliccare nuovamente \"Aggiungi al carrello\"",
+          "SC_HAVE": "Ora hai {{number}} articoli nel tuo carrello.",
+          "ADD_TO_CART": "Aggiungi al carrello",
+          "WISH_CANCEL_WISHLIST": "Cancel",
+          "BUY_NOW": "Acquista ora",
+          "WISH_SYSTEM_ERROR": "Hai fatto un errore di sistema. Riprova.",
+          "SC_ADD_MAX": "Puoi aggiungere al carrello {{number}} articoli al massimo. Rimuovi alcuni elementi prima di aggiungerne altri.",
+          "SC_VIEW": "Vedi carrello",
+          "WISH_YOUMAYLIKE": "You may also like",
+          "WISH_VIEW_WISH_LIST": "Visualizza Wish List",
+          "SC_RECOMMEND": "Gli acquirenti che hanno comprato questo articolo hanno comprato anche:",
+          "CONTINUE": "Continua gli acquisti",
+          "ADDED_TO": "Aggiunto a {wishlist}",
+          "ORDER_NOW": "Ordina ora",
+          "SELECT_TIP": "Ti preghiamo di fornire prima le informazioni mancanti",
+          "NO_LONGER_AVAILABLE": "Spiacenti, questo articolo non è più disponibile!",
+          "PREVIEW_PERIOD": "2019/3/21 00:00:00 GMT-0700,2019/3/27 23:59:59 GMT-0700",
+          "WISH_MAX_GROUP": "Spiacenti, non puoi creare altre liste dei desideri",
+          "WISHLIST_PUBLIC_TIP": "Pubblico"
+        },
+        "id": 0,
+        "itemStatus": 0,
+        "itemWished": false,
+        "itemWishedCount": 1788,
+        "localSeller": false,
+        "name": "ActionModule",
+        "preSale": false,
+        "productId": 32968792074,
+        "showCoinAnim": false,
+        "storeNum": 4392072,
+        "totalAvailQuantity": 699212
+      },
+      "aePlusModule": {
+        "features": {},
+        "i18nMap": {},
+        "id": 0,
+        "name": "AePlusModule"
+      },
+      "buyerProtectionModule": {
+        "buyerProtection": {
+          "brief": "Soddisfatti o rimborsati",
+          "detailDescription": "",
+          "id": 2,
+          "name": "Protezione dell'acquirente {day}-giorni",
+          "redirectUrl": "https://sale.aliexpress.com/v8Yr8f629D.htm",
+          "type": 1
+        },
+        "features": {},
+        "i18nMap": {
+          "PLAZA_BUYER_PROTECTION_TITLE": "Local Return",
+          "PLAZA_BUYER_PROTECTION_TIP": "Dispones de 15 días en los que puedes devolver el artículo por no satisfacer tus expectativas, siempre que se encuentre en perfecto estado, sin usar y conserve todas las etiquetas y el embalaje original",
+          "PLAZA_BUYER_PROTECTION_CONTENT": "15 days"
+        },
+        "id": 0,
+        "name": "BuyerProtectionModule"
+      },
+      "commonModule": {
+        "activity": true,
+        "categoryId": 200000865,
+        "currencyCode": "USD",
+        "features": {},
+        "gagaDataSite": "it",
+        "i18nMap": {},
+        "id": 0,
+        "name": "CommonModule",
+        "plaza": false,
+        "preSale": false,
+        "productId": 32968792074,
+        "productTags": {},
+        "sellerAdminSeq": 234273399,
+        "tradeCurrencyCode": "USD",
+        "userCountryCode": "EU",
+        "userCountryName": "Europe"
+      },
+      "couponModule": {
+        "currencyCode": "USD",
+        "features": {},
+        "fixedDiscountLevelList": [
+          {
+            "discountAmount": "US $9.00",
+            "fixedAmount": "US $199.00",
+            "level": 1
+          },
+          {
+            "discountAmount": "US $19.00",
+            "fixedAmount": "US $599.00",
+            "level": 2
+          },
+          {
+            "discountAmount": "US $39.00",
+            "fixedAmount": "US $1,599.00",
+            "level": 3
+          }
+        ],
+        "i18nMap": {
+          "GET_COUPONS": "Ottieni coupon",
+          "SCP_ERR_HAVE": "Spiacenti, hai già ottenuto il buono da questo negozio! Usa il buono ora!",
+          "OFF_ON": "{money1} di sconto su {money2}",
+          "ORDER_OVER": "Ordini superiori a ",
+          "code52Title": "Siamo spiacenti, ma tutti i coupon disponibili sono già stati richiesti.",
+          "GET_IT": "Ottieni",
+          "GET_NOW": "Ottieni",
+          "GET_MORE": "Ottieni di più",
+          "systemError": "Qualcosa è andato storto. Ti preghiamo di riprovare.",
+          "OFF_PER": "{money1} di sconto per {money2}",
+          "STORE_COUPON": "Coupon Negozio",
+          "SHOP_COUPONE_TIME_START_END": "Da {0} a {1}",
+          "NEW_USER_COUPON_ACQUIRE_FAIL_ALREADY_HAVE": "Siamo spiacenti, hai già ottenuto un Coupon Nuovo Utente.",
+          "code50Title": "Spiacenti, non abbiamo potuto emettere il coupon. Riprova.",
+          "NEW_USER_COUPON_ACQUIRE_FAIL_NOT_AVAILABLE_NOW": "Siamo spiacenti, i Coupon Nuovo Utente non sono disponibili ora.",
+          "NEW_USER_COUPON_ACQUIRE_FAIL_GROUP_LIMIT": "Siamo spiacenti, hai già ottenuto la quantità massima di Coupon Nuovo Utente.",
+          "code14Title": "Hai un numero sufficiente di coupon selezionati. Lasciane un po' anche agli altri :)",
+          "NEW_USER_COUPON_ACQUIRE_FAIL_NOT_NEW_USER": "Siamo spiacenti, solo i nuovi utenti hanno diritto a ricevere questo coupon.",
+          "SHOP_PROMO_CODE_COPIED": "Codice promozionale copiato!",
+          "ADDED": "Aggiunto",
+          "NEW_USER_COUPON_ACQUIRE_FAIL_SECURITY": "Per proteggere la sicurezza del tuo account, usa un altro dispositivo per accedere.",
+          "SHOP_PROMO_CODE_TITLE": "Codice promozionale del negozio",
+          "NEW_USER_COUPON_ACQUIRE_FAIL": "Spiacenti, si è verificato un errore! Riprova.",
+          "NEW_USER_COUPON_ACQUIRE_FAIL_LIMIT_DAY": "Siamo spiacenti, i Coupon Nuovo Utente non sono disponibili oggi.",
+          "NEW_USER_COUPON_ACQUIRE_FAIL_REGISTER_COUNTRY_LIMIT": "Verifica che questo coupon sia riscattabile nel tuo paese di residenza.",
+          "SCP_ERR_NONE": "Spiacenti! Tutti questi buoni sono stati già assegnati.",
+          "NEW_USER_COUPON_ACQUIRE_FAIL_GRANT_ERROR": "Siamo spiacenti, non sei riuscito a ottenere questo coupon.",
+          "code17Title": "Siamo spiacenti, ma questo coupon non è più disponibile.",
+          "SHOP_COUPONE_TIME_EXPIRES": "Scade il {0}",
+          "SHOPPONG_CREDIT": "SHOPPONG CREDIT",
+          "EXCHANGE_MORE": "Scambia di più",
+          "NEW_USER_COUPON_ACQUIRE_FAIL_SYSTEM_ERROR": "Spiacenti, si è verificato un errore! Riprova.",
+          "MY_BALANCE": "Saldo",
+          "INSTANT_DISCOUNT": "Sconto immediato",
+          "EXCHANGE_NOW": "Scambia ora",
+          "CROSS_STORE_VOUCHER_TIP": "Risparmia fino a {money1} su ordini superiori a {money2}",
+          "NEW_USER_COUPON": "Un nuovo coupon utente",
+          "GET": "OTTIENI",
+          "SHOP_PROMO_CODE_COP_FAILED": "Copia non riuscita. Riprova",
+          "code-30005Title": "Uh oh, sembra che non avete ancora abbastanza monete...",
+          "MY_COINS": "Le mie monete",
+          "BUY_GET_OFF": "Acquistate {fullpiece} e otterrete lo sconto del {fulldiscount}",
+          "code51Title": "Siamo spiacenti, ma tutti i coupon disponibili sono già stati richiesti.",
+          "NEW_USER_COUPON_ACQUIRE_FAIL_LIMIT_HOUR": "Siamo spiacenti, i Coupon Nuovo Utente non sono disponibili al momento.",
+          "CROSS_STORE_VOUCHER": "Seleziona coupon"
+        },
+        "id": 0,
+        "name": "CouponModule"
+      },
+      "crossLinkModule": {
+        "breadCrumbPathList": [
+          {
+            "cateId": 0,
+            "name": "Home",
+            "remark": "",
+            "url": "//it.aliexpress.com/"
+          },
+          {
+            "cateId": 0,
+            "name": "Tutte le categorie",
+            "remark": "",
+            "target": "Tutte le categorie",
+            "url": "//it.aliexpress.com/all-wholesale-products.html"
+          },
+          {
+            "cateId": 100003109,
+            "name": "Abbigliamento da donna",
+            "remark": "",
+            "target": "Abbigliamento da donna",
+            "url": "//it.aliexpress.com/category/100003109/women-clothing.html"
+          },
+          {
+            "cateId": 200118010,
+            "name": "Mutandine",
+            "remark": "",
+            "target": "Mutandine",
+            "url": "//it.aliexpress.com/category/200118010/bottoms.html"
+          },
+          {
+            "cateId": 200001089,
+            "name": "Leggings",
+            "remark": "",
+            "target": "Leggings",
+            "url": "//it.aliexpress.com/category/200001089/leggings.html"
+          }
+        ],
+        "crossLinkGroupList": [
+          {
+            "channel": "w",
+            "crossLinkList": [
+              {
+                "displayName": "fit equip",
+                "name": "fit equip",
+                "url": "https://it.aliexpress.com/w/wholesale-fit-equip.html"
+              },
+              {
+                "displayName": "black spandex",
+                "name": "black spandex",
+                "url": "https://it.aliexpress.com/w/wholesale-black-spandex.html"
+              },
+              {
+                "displayName": "curvy sexy",
+                "name": "curvy sexy",
+                "url": "https://it.aliexpress.com/w/wholesale-curvy-sexy.html"
+              },
+              {
+                "displayName": "cloth woman",
+                "name": "cloth woman",
+                "url": "https://it.aliexpress.com/w/wholesale-cloth-woman.html"
+              },
+              {
+                "displayName": "net",
+                "name": "net",
+                "url": "https://it.aliexpress.com/w/wholesale-net.html"
+              },
+              {
+                "displayName": "the almond blossom van gogh",
+                "name": "the almond blossom van gogh",
+                "url": "https://it.aliexpress.com/w/wholesale-the-almond-blossom-van-gogh.html"
+              },
+              {
+                "displayName": "cloth women",
+                "name": "cloth women",
+                "url": "https://it.aliexpress.com/w/wholesale-cloth-women.html"
+              },
+              {
+                "displayName": "activewear for women",
+                "name": "activewear for women",
+                "url": "https://it.aliexpress.com/w/wholesale-activewear-for-women.html"
+              },
+              {
+                "displayName": "jean woman",
+                "name": "jean woman",
+                "url": "https://it.aliexpress.com/w/wholesale-jean-woman.html"
+              }
+            ],
+            "name": "Vendita all'ingrosso"
+          },
+          {
+            "channel": "p",
+            "crossLinkList": [
+              {
+                "displayName": "nepoagym women",
+                "name": "nepoagym women",
+                "url": "https://it.aliexpress.com/popular/nepoagym-women.html"
+              },
+              {
+                "displayName": "denim leg",
+                "name": "denim leg",
+                "url": "https://it.aliexpress.com/popular/denim-leg.html"
+              },
+              {
+                "displayName": "high waist women",
+                "name": "high waist women",
+                "url": "https://it.aliexpress.com/popular/high-waist-women.html"
+              },
+              {
+                "displayName": "pant women",
+                "name": "pant women",
+                "url": "https://it.aliexpress.com/popular/pant-women.html"
+              },
+              {
+                "displayName": "the almond blossom van gogh",
+                "name": "the almond blossom van gogh",
+                "url": "https://it.aliexpress.com/popular/the-almond-blossom-van-gogh.html"
+              },
+              {
+                "displayName": "activewear for women",
+                "name": "activewear for women",
+                "url": "https://it.aliexpress.com/popular/activewear-for-women.html"
+              },
+              {
+                "displayName": "jean woman",
+                "name": "jean woman",
+                "url": "https://it.aliexpress.com/popular/jean-woman.html"
+              },
+              {
+                "displayName": "printer thermal",
+                "name": "printer thermal",
+                "url": "https://it.aliexpress.com/popular/printer-thermal.html"
+              },
+              {
+                "displayName": "leg",
+                "name": "leg",
+                "url": "https://it.aliexpress.com/popular/leg.html"
+              }
+            ],
+            "name": "Popolare"
+          },
+          {
+            "channel": "price",
+            "crossLinkList": [
+              {
+                "displayName": "trouser women",
+                "name": "trouser women",
+                "url": "https://it.aliexpress.com/price/trouser-women_price.html"
+              },
+              {
+                "displayName": "fit leg",
+                "name": "fit leg",
+                "url": "https://it.aliexpress.com/price/fit-leg_price.html"
+              },
+              {
+                "displayName": "printer",
+                "name": "printer",
+                "url": "https://it.aliexpress.com/price/printer_price.html"
+              },
+              {
+                "displayName": "cloth for women",
+                "name": "cloth for women",
+                "url": "https://it.aliexpress.com/price/cloth-for-women_price.html"
+              },
+              {
+                "displayName": "top women",
+                "name": "top women",
+                "url": "https://it.aliexpress.com/price/top-women_price.html"
+              },
+              {
+                "displayName": "neopagym",
+                "name": "neopagym",
+                "url": "https://it.aliexpress.com/price/neopagym_price.html"
+              },
+              {
+                "displayName": "pant women",
+                "name": "pant women",
+                "url": "https://it.aliexpress.com/price/pant-women_price.html"
+              },
+              {
+                "displayName": "jeg",
+                "name": "jeg",
+                "url": "https://it.aliexpress.com/price/jeg_price.html"
+              },
+              {
+                "displayName": "workout equip",
+                "name": "workout equip",
+                "url": "https://it.aliexpress.com/price/workout-equip_price.html"
+              }
+            ],
+            "name": "Prezzo"
+          },
+          {
+            "channel": "cheap",
+            "crossLinkList": [
+              {
+                "displayName": "ass spandex",
+                "name": "ass spandex",
+                "url": "https://it.aliexpress.com/cheap/cheap-ass-spandex.html"
+              },
+              {
+                "displayName": "coil mesh",
+                "name": "coil mesh",
+                "url": "https://it.aliexpress.com/cheap/cheap-coil-mesh.html"
+              },
+              {
+                "displayName": "gym woman",
+                "name": "gym woman",
+                "url": "https://it.aliexpress.com/cheap/cheap-gym-woman.html"
+              },
+              {
+                "displayName": "cloth for women",
+                "name": "cloth for women",
+                "url": "https://it.aliexpress.com/cheap/cheap-cloth-for-women.html"
+              },
+              {
+                "displayName": "top women",
+                "name": "top women",
+                "url": "https://it.aliexpress.com/cheap/cheap-top-women.html"
+              },
+              {
+                "displayName": "jean pant",
+                "name": "jean pant",
+                "url": "https://it.aliexpress.com/cheap/cheap-jean-pant.html"
+              },
+              {
+                "displayName": "workout equip",
+                "name": "workout equip",
+                "url": "https://it.aliexpress.com/cheap/cheap-workout-equip.html"
+              },
+              {
+                "displayName": "4x sexy",
+                "name": "4x sexy",
+                "url": "https://it.aliexpress.com/cheap/cheap-4x-sexy.html"
+              },
+              {
+                "displayName": "2019 push up",
+                "name": "2019 push up",
+                "url": "https://it.aliexpress.com/cheap/cheap-2019-push-up.html"
+              }
+            ],
+            "name": "Economico"
+          },
+          {
+            "channel": "promotion",
+            "crossLinkList": [
+              {
+                "displayName": "denim leg",
+                "name": "denim leg",
+                "url": "https://it.aliexpress.com/promotion/promotion_denim-leg-promotion.html"
+              },
+              {
+                "displayName": "shirt",
+                "name": "shirt",
+                "url": "https://it.aliexpress.com/promotion/promotion_shirt-promotion.html"
+              },
+              {
+                "displayName": "high waist women",
+                "name": "high waist women",
+                "url": "https://it.aliexpress.com/promotion/promotion_high-waist-women-promotion.html"
+              },
+              {
+                "displayName": "band resist",
+                "name": "band resist",
+                "url": "https://it.aliexpress.com/promotion/promotion_band-resist-promotion.html"
+              },
+              {
+                "displayName": "mesh suit",
+                "name": "mesh suit",
+                "url": "https://it.aliexpress.com/promotion/promotion_mesh-suit-promotion.html"
+              },
+              {
+                "displayName": "cloth for women",
+                "name": "cloth for women",
+                "url": "https://it.aliexpress.com/promotion/promotion_cloth-for-women-promotion.html"
+              },
+              {
+                "displayName": "english sexy",
+                "name": "english sexy",
+                "url": "https://it.aliexpress.com/promotion/promotion_english-sexy-promotion.html"
+              },
+              {
+                "displayName": "plus size spandex",
+                "name": "plus size spandex",
+                "url": "https://it.aliexpress.com/promotion/promotion_plus-size-spandex-promotion.html"
+              },
+              {
+                "displayName": "leg",
+                "name": "leg",
+                "url": "https://it.aliexpress.com/promotion/promotion_leg-promotion.html"
+              }
+            ],
+            "name": "Promozione"
+          },
+          {
+            "channel": "reviews",
+            "crossLinkList": [
+              {
+                "displayName": "trouser women",
+                "name": "trouser women",
+                "url": "https://it.aliexpress.com/trouser-women_reviews.html"
+              },
+              {
+                "displayName": "activewear women",
+                "name": "activewear women",
+                "url": "https://it.aliexpress.com/activewear-women_reviews.html"
+              },
+              {
+                "displayName": "mesh suit",
+                "name": "mesh suit",
+                "url": "https://it.aliexpress.com/mesh-suit_reviews.html"
+              },
+              {
+                "displayName": "printer",
+                "name": "printer",
+                "url": "https://it.aliexpress.com/printer_reviews.html"
+              },
+              {
+                "displayName": "neopagym",
+                "name": "neopagym",
+                "url": "https://it.aliexpress.com/neopagym_reviews.html"
+              },
+              {
+                "displayName": "english sexy",
+                "name": "english sexy",
+                "url": "https://it.aliexpress.com/english-sexy_reviews.html"
+              },
+              {
+                "displayName": "plus size spandex",
+                "name": "plus size spandex",
+                "url": "https://it.aliexpress.com/plus-size-spandex_reviews.html"
+              },
+              {
+                "displayName": "green push up",
+                "name": "green push up",
+                "url": "https://it.aliexpress.com/green-push-up_reviews.html"
+              },
+              {
+                "displayName": "jean kawaii",
+                "name": "jean kawaii",
+                "url": "https://it.aliexpress.com/jean-kawaii_reviews.html"
+              }
+            ],
+            "name": "Recensioni"
+          }
+        ],
+        "features": {},
+        "i18nMap": {
+          "BREADCRUMB_PART2": "e puoi trovare prodotti simili su",
+          "BREADCRUMB_PART1": "Questo prodotto appartiene a",
+          "CROSSLINK_RELATED_SEARCHES": "Ricerche correlate"
+        },
+        "id": 0,
+        "name": "CrossLinkModule",
+        "productId": 32968792074
+      },
+      "descriptionModule": {
+        "descriptionUrl": "https://aeproductsourcesite.alicdn.com/product/description/pc/v2/it_IT/desc.htm?productId=32968792074&key=HTB1a2F8aUT1gK0jSZFhM7OAtVXa8.zip&token=2bf14dd99885d66bf68c790e8ad4c0dc",
+        "features": {},
+        "i18nMap": {},
+        "id": 0,
+        "name": "DescriptionModule",
+        "productId": 32968792074,
+        "sellerAdminSeq": 234273399
+      },
+      "features": {},
+      "feedbackModule": {
+        "companyId": 243506668,
+        "features": {},
+        "feedbackServer": "//feedback.aliexpress.com",
+        "i18nMap": {},
+        "id": 0,
+        "name": "FeedbackModule",
+        "productId": 32968792074,
+        "sellerAdminSeq": 234273399,
+        "trialReviewNum": 0
+      },
+      "groupShareModule": {
+        "features": {},
+        "i18nMap": {},
+        "id": 0,
+        "name": "GroupShareModule"
+      },
+      "i18nMap": {
+        "VIEW_MORE": "VEDERE PIÙ",
+        "ASK_BUYERS": "Domande & Risposte dell'acquirente",
+        "PAGE_NOT_FOUND_NOTICE": "Spiacenti, questa pagina non è disponibile, ma dai un'occhiata ad altre pagine altrettanto fantastiche.",
+        "VIEW_5_MORE_ANSWERS": "VEDERE PIÙ",
+        "openTrace": "true",
+        "PAGE_NOT_FOUND_RCMD_TITLE": "Sorry, the page you requested can not be found:("
+      },
+      "imageModule": {
+        "approved": true,
+        "features": {},
+        "i18nMap": {},
+        "id": 0,
+        "imagePathList": [
+          "https://ae01.alicdn.com/kf/HTB15pz_aLjsK1Rjy1Xaq6zispXaA/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg",
+          "https://ae01.alicdn.com/kf/HTB1UCLUaUvrK1RjSszfq6xJNVXaH/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg",
+          "https://ae01.alicdn.com/kf/HTB13hPUaITxK1Rjy0Fgq6yovpXaF/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg",
+          "https://ae01.alicdn.com/kf/HTB1PTj8aPnuK1RkSmFPq6AuzFXaJ/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg",
+          "https://ae01.alicdn.com/kf/HTB19b2WaULrK1Rjy1zbq6AenFXaX/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg",
+          "https://ae01.alicdn.com/kf/HTB12vrTaFzsK1Rjy1Xbq6xOaFXaU/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg"
+        ],
+        "name": "ImageModule",
+        "summImagePathList": [
+          "https://ae01.alicdn.com/kf/HTB15pz_aLjsK1Rjy1Xaq6zispXaA/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_50x50.jpg",
+          "https://ae01.alicdn.com/kf/HTB1UCLUaUvrK1RjSszfq6xJNVXaH/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_50x50.jpg",
+          "https://ae01.alicdn.com/kf/HTB13hPUaITxK1Rjy0Fgq6yovpXaF/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_50x50.jpg",
+          "https://ae01.alicdn.com/kf/HTB1PTj8aPnuK1RkSmFPq6AuzFXaJ/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_50x50.jpg",
+          "https://ae01.alicdn.com/kf/HTB19b2WaULrK1Rjy1zbq6AenFXaX/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_50x50.jpg",
+          "https://ae01.alicdn.com/kf/HTB12vrTaFzsK1Rjy1Xbq6xOaFXaU/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_50x50.jpg"
+        ],
+        "videoId": 221202774297,
+        "videoUid": "3990774399"
+      },
+      "installmentModule": {
+        "features": {},
+        "i18nMap": {},
+        "id": 0,
+        "name": "InstallmentModule"
+      },
+      "middleBannerModule": {
+        "features": {},
+        "i18nMap": {
+          "END_IN": "Termina tra",
+          "DAYS": "{number} giorni",
+          "DAY": "{number} giorno",
+          "STARTS_IN": "Inizia fra"
+        },
+        "id": 0,
+        "name": "MiddleBannerModule"
+      },
+      "name": "ItemDetailResp",
+      "otherServiceModule": {
+        "features": {},
+        "hasWarrantyInfo": false,
+        "i18nMap": {
+          "TAB_SPECS": "Specifiche",
+          "PLAZA_SERVICE_SUBTITLE_PC": "Guarantee in Spain",
+          "PLAZA_SERVICE_WARRANTY_EMAIL": "Email",
+          "PLAZA_SERVICE_WARRANTY_PHONE": "Phone",
+          "PLAZA_SERVICE_WARRANTY_HOURS": "Hours",
+          "TAB_CUSTOMER_REVIEWS": "Recensioni dei clienti",
+          "PLAZA_SERVICE_WARRANTY_WEBSITE": "Website",
+          "TAB_OVERVIEW": "Panoramica",
+          "PLAZA_SERVICE_WARRANTY_BRAND": "Brand",
+          "PLAZA_SERVICE_WARRANTY_CATEGORY": "Category",
+          "PLAZA_SERVICE_TITLE_PC": "Plaza Technology Guarantees",
+          "PLAZA_SERVICE_CONTENT3_3_PC": "- The safety seal is not damaged and all labels are retained.",
+          "PLAZA_SERVICE_WARRANTY_TITLE": "Official technical service",
+          "TAB_REPORT_ITEM": "Rapporto sull'articolo",
+          "TAB_SERVICE": "Service",
+          "PLAZA_SERVICE_CONTENT3_1_PC": "You have 15 days to return your Plaza Technology order, provided that:",
+          "PLAZA_SERVICE_CONTENT3_2_PC": "- It is in perfect condition and in the original packaging. ",
+          "PLAZA_SERVICE_CONTENT1_PC": "All items of Plaza Technology are 100% original, are covered by the protection of the buyer of AliExpress and have an official warranty of 2 years in Spain to process in the official technical service in Spain designated by the manufacturer.",
+          "PLAZA_SERVICE_SUBTITLE2_PC": "Shipping and delivery",
+          "PLAZA_SERVICE_CONTENT2_PC": "Shipments are free without minimum purchase. We make all our shipments from Spain, so there are no additional fees or customs. The delivery time in any point of the peninsula is 1 to 3 working days from the moment of purchase. At the moment we do not send to the Canary Islands, Ceuta or Melilla.",
+          "PLAZA_SERVICE_SUBTITLE3_PC": "Returns"
+        },
+        "id": 0,
+        "name": "OtherServiceModule"
+      },
+      "pageModule": {
+        "aeOrderFrom": "main_detail",
+        "aerSelfOperation": false,
+        "boutiqueSeller": false,
+        "complaintUrl": "//report.aliexpress.com/health/reportIndex.htm?product_id=32968792074&b_login_id=cn1524252322dbtx",
+        "description": "italy description3:Economico Leggings, Acquista Direttamente da Fornitori Cinesi :Maryigean Maglia Modello di Stampa Leggings Leggings di Fitness Per Le Donne Sportive Allenamento Push Up Leggins Elastico Sottile Pantaloni A Vita Alta\nGoditi ✓ Spedizione gratuita in tutto il mondo! ✓ Vendita a tempo limitato ✓ Facile ritorno",
+        "features": {},
+        "i18nMap": {},
+        "id": 0,
+        "imagePath": "https://ae01.alicdn.com/kf/HTB15pz_aLjsK1Rjy1Xaq6zispXaA/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg",
+        "itemDetailUrl": "https://it.aliexpress.com/item/32968792074.html",
+        "keywords": "Leggings, Economico Leggings, Maryigean Maglia Modello di Stampa Leggings Leggings di Fitness Per Le Donne Sportive Allenamento Push Up Leggins Elastico Sottile Pantaloni A Vita Alta",
+        "kidBaby": false,
+        "mSiteUrl": "https://m.it.aliexpress.com/item/32968792074.html",
+        "multiLanguageUrlList": [
+          {
+            "language": "msite",
+            "languageUrl": "https://m.aliexpress.com/item/32968792074.html"
+          },
+          {
+            "language": "en",
+            "languageUrl": "https://www.aliexpress.com/item/32968792074.html"
+          },
+          {
+            "language": "it",
+            "languageUrl": "https://it.aliexpress.com/item/32968792074.html"
+          },
+          {
+            "language": "fr",
+            "languageUrl": "https://fr.aliexpress.com/item/32968792074.html"
+          },
+          {
+            "language": "de",
+            "languageUrl": "https://de.aliexpress.com/item/32968792074.html"
+          },
+          {
+            "language": "ru",
+            "languageUrl": "https://aliexpress.ru/item/32968792074.html"
+          },
+          {
+            "language": "es",
+            "languageUrl": "https://es.aliexpress.com/item/32968792074.html"
+          },
+          {
+            "language": "pt",
+            "languageUrl": "https://pt.aliexpress.com/item/32968792074.html"
+          },
+          {
+            "language": "ja",
+            "languageUrl": "https://ja.aliexpress.com/item/32968792074.html"
+          },
+          {
+            "language": "ko",
+            "languageUrl": "https://ko.aliexpress.com/item/32968792074.html"
+          },
+          {
+            "language": "nl",
+            "languageUrl": "https://nl.aliexpress.com/item/32968792074.html"
+          },
+          {
+            "language": "ar",
+            "languageUrl": "https://ar.aliexpress.com/item/32968792074.html"
+          },
+          {
+            "language": "tr",
+            "languageUrl": "https://tr.aliexpress.com/item/32968792074.html"
+          },
+          {
+            "language": "vi",
+            "languageUrl": "https://vi.aliexpress.com/item/32968792074.html"
+          },
+          {
+            "language": "he",
+            "languageUrl": "https://he.aliexpress.com/item/32968792074.html"
+          },
+          {
+            "language": "th",
+            "languageUrl": "https://th.aliexpress.com/item/32968792074.html"
+          },
+          {
+            "language": "pl",
+            "languageUrl": "https://pl.aliexpress.com/item/32968792074.html"
+          }
+        ],
+        "name": "PageModule",
+        "ogDescription": "Smarter Shopping, Better Living!  Aliexpress.com",
+        "ogTitle": "US $5.66 37% di SCONTO|Maryigean Maglia Modello di Stampa Leggings Leggings di Fitness Per Le Donne Sportive Allenamento Push Up Leggins Elastico Sottile Pantaloni A Vita Alta-in Leggings da Abbigliamento da donna su AliExpress ",
+        "ogurl": "//it.aliexpress.com/item/32968792074.html",
+        "oldItemDetailUrl": "https://it.aliexpress.com/item/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up/32968792074.html",
+        "plazaElectronicSeller": false,
+        "productId": 32968792074,
+        "ruSelfOperation": false,
+        "showPlazaHeader": false,
+        "siteType": "ita",
+        "spanishPlaza": false,
+        "title": "Maryigean Maglia Modello di Stampa Leggings Leggings di Fitness Per Le Donne Sportive Allenamento Push Up Leggins Elastico Sottile Pantaloni A Vita Alta-in Leggings da Abbigliamento da donna su AliExpress "
+      },
+      "preSaleModule": {
+        "features": {},
+        "i18nMap": {},
+        "id": 0,
+        "name": "PreSaleModule",
+        "preSale": false
+      },
+      "priceModule": {
+        "activity": true,
+        "activityMessage": "Nuova offerta utente",
+        "bigPreview": false,
+        "bigSellProduct": false,
+        "discount": 37,
+        "discountPromotion": true,
+        "features": {},
+        "formatedActivityPrice": "US $5.66",
+        "formatedPrice": "US $8.99",
+        "hiddenBigSalePrice": false,
+        "i18nMap": {
+          "LOT": "molto",
+          "INSTALLMENT": "Installment",
+          "DEPOSIT": "Anticipo",
+          "PRE_ORDER_PRICE": "Prezzo del pre-ordine"
+        },
+        "id": 0,
+        "installment": false,
+        "lot": false,
+        "maxActivityAmount": {
+          "currency": "USD",
+          "formatedAmount": "US $5.66",
+          "value": 5.66
+        },
+        "maxAmount": {
+          "currency": "USD",
+          "formatedAmount": "US $8.99",
+          "value": 8.99
+        },
+        "minActivityAmount": {
+          "currency": "USD",
+          "formatedAmount": "US $5.66",
+          "value": 5.66
+        },
+        "minAmount": {
+          "currency": "USD",
+          "formatedAmount": "US $8.99",
+          "value": 8.99
+        },
+        "multiUnitName": "parti",
+        "name": "PriceModule",
+        "numberPerLot": 1,
+        "oddUnitName": "parte",
+        "preSale": false,
+        "regularPriceActivity": false,
+        "showActivityMessage": true
+      },
+      "quantityModule": {
+        "activity": true,
+        "displayBulkInfo": true,
+        "features": {},
+        "i18nMap": {
+          "LOT": "molto",
+          "LOTS": "lots",
+          "BUY_LIMIT": "{limit} {unit} al massimo per cliente",
+          "QUANTITY": "Quantità",
+          "OFF_OR_MORE": "{discount}% di sconto su ({number} {unit} o superiore)",
+          "ONLY_QUANTITY_LEFT": "Solo {availQuantity} rimasti",
+          "ADDTIONAL": "Supplementari",
+          "QUANTITY_AVAILABLE": "{availQuantity} {unit} disponibile"
+        },
+        "id": 0,
+        "lot": false,
+        "multiUnitName": "parti",
+        "name": "QuantityModule",
+        "oddUnitName": "parte",
+        "purchaseLimitNumMax": 0,
+        "skuBulkDiscount": 5,
+        "skuBulkOrder": 10,
+        "totalAvailQuantity": 699212
+      },
+      "recommendModule": {
+        "categoryId": 200000865,
+        "companyId": 243506668,
+        "features": {
+          "recommendGpsScenarioOtherSellerProducts": "pcDetailBottomMoreOtherSeller",
+          "showSubTitle": "true",
+          "recommendGpsScenarioTopSelling": "pcDetailLeftTopSell",
+          "recommendGpsScenarioSellerOtherProducts": "pcDetailBottomMoreThisSeller"
+        },
+        "i18nMap": {
+          "MORE_FROM_THIS_SELLER": "I consigli del venditore",
+          "YOU_MAY_LIKE": "Consigliato per te",
+          "TOP_SELLING": "I più venduti",
+          "FROM_OTHER_SELLER": "Potrebbero piacerti anche",
+          "VIEW_MORE_LINK": "Visualizza altro",
+          "PRODUCT_SOLD": "venduto"
+        },
+        "id": 0,
+        "name": "RecommendModule",
+        "productId": 32968792074,
+        "storeNum": 4392072
+      },
+      "redirectModule": {
+        "bigBossBan": false,
+        "code": "OK",
+        "features": {},
+        "i18nMap": {},
+        "id": 0,
+        "name": "RedirectModule",
+        "redirectUrl": ""
+      },
+      "shippingModule": {
+        "currencyCode": "USD",
+        "features": {},
+        "hbaFreeShipping": false,
+        "hbaFreight": false,
+        "i18nMap": {
+          "FAST_SHIPPING": "Spedizione Veloce",
+          "CAN_NOT_DELIVER": "Non è possibile consegnare",
+          "HBA_TRAKING_AVAILABLE": "Tracking Available",
+          "HAB_BALLOON_TRAKING_AVAILABLE": "Track your order status from start to finish.",
+          "SELECT_SHIP_FROM_TIP": "Please select the country you want to ship from",
+          "DAYS": "days",
+          "SHIPPING_TO": "Spedizione:",
+          "HAB_SHIPPING_TO": "a",
+          "CARRIER": "Vettore",
+          "FREE_SHIPPING": "Spedizione gratuita",
+          "COST": "Costo",
+          "BALLOON_TIP": "If you finish the payment today, your order will arrive within the estimated delivery time.",
+          "SHIP_MY_ITEM_TO": "Spedire a",
+          "HAB_BALLOON_VAT_INCLUDED": "Articolo prezzo indicato comprende IVA.",
+          "TRACKING": "Tracciabilità",
+          "TO_COUNTRY": "to {countryName}",
+          "CAN_NOE_DELIVER_NOTE": "Questo Fornitore/Spedizioniere non effettua la consegna nel paese/regione selezionato.",
+          "ESTIMATED_DELIVERT_ON_DAYS": "Consegna stimata: {0}giorni",
+          "CHOOSE_DELIVERT_METHOD": "Metodo di spedizione",
+          "HAB_BALLOON_DOOR_DELIVERY": "Products delivered directly to your door.",
+          "DELIVERED_BY": "Consegnato entro {date} o rimborso totale",
+          "HBA_SHIPPING_INFO": "In {countryName} in  {time} giorni tramite  {companyName}",
+          "PLAZA_BALLOON_TIP": "This delivery date is estimated. The calculation is based on several factors, including the address, shipping option selected and the availability shown on the product detail page.",
+          "IN": "in",
+          "SEARCH": "Stato/Provincia/Regione",
+          "SELECT_SHIP_FROM": "Please select the country you want to ship from",
+          "HBA_TVAT_INCLUDED": "IVA inclusa",
+          "ESTIMATED_DELIVERY": "Estimated Delivery",
+          "HBA_BALLOON_TIPS": "hba balloon tips",
+          "VAT_DE_DETAIL": "L'acquirente è un dichiarante di importazione tedesco",
+          "HBA_DOR_DELIVERY": "COD Available on APP",
+          "VAT_NUMBER": "VAT number:",
+          "ESTIMATED_DELIVERT_ON_DATE": "Consegna stimata il {date}",
+          "OR_FULL_REFOUND": "Rimborso completo",
+          "TO_VIA": "in {countryName} tramite {companyName}",
+          "APPLY": "Applica",
+          "PLAZA_SHOP_NOW_RECEIVE_ON": "Buy it now and receive it on {date} (est.)"
+        },
+        "id": 0,
+        "name": "ShippingModule",
+        "productId": 32968792074,
+        "userCountryCode": "EU",
+        "userCountryName": "Europe"
+      },
+      "skuModule": {
+        "categoryId": 200000865,
+        "features": {},
+        "forcePromiseWarrantyJson": "{}",
+        "hasSizeInfo": false,
+        "hasSkuProperty": true,
+        "i18nMap": {
+          "SIZING_INFO": "Size Info",
+          "BUST_PROMPT": "Please select your bust size.",
+          "GLASSES_DIALOG_TITLE": "Prescription Detail",
+          "NV_ADD": "Sometimes seen on your prescription as \"NV, ADD, Near, Reading, or Reading Addition.\"  \"NV\" stands for \"Near-Vision.\"  This number indicates the additional magnification that is added to the distance prescription to get the reading portion of the lens in a multi-focal prescription.  We display a single NV-ADD field since it is almost always the same value for both eyes.",
+          "SPH": "SPHERE (SPH), or Spherical, refers to the refractive correction in the prescription. Minus (-) stands for near sightedness, and Plus (+) stands for far sightedness. If \"PL\" or \"Plano\" is written for the either SPH value on your prescription, you should select a value of 0.00.\r\r\nOD-SPH is spherical correction for your right eye.\r\r\nOS-SPH is spherical correction for your left eye.\r\r\nOD-SPH is spherical correction for your RIGHT eye.\r\r\nOS-SPH is spherical correction for your LEFT eye.",
+          "PUPILLARY_PROMPT": "Please select PD (Pupillary Distance).",
+          "SIZE_HOVER_TITLE": "Might be different from your local size,please see the sizing info for more information.",
+          "FLOOR_CONTENT": "Begin at the hollow space between the collarbones and pull tape straight down to the floor.",
+          "CUSTOM_SIZE_CONTENT": "Your body measurements",
+          "NV_ADD_PROMPT": "Please select NV-ADD.",
+          "PLEASE_ENTER": "Si prega di inserire",
+          "WAIST_TITLE": "Waist",
+          "WAIST_CONTENT": "Measure the smallest part of the waist.\r\r\nKeep tape slightly loose to allow for breathing room.",
+          "CYL": "CYLINDER (CYL), or Cylinder, refers to the strength of the correction for the astigmatism in the eye. It can be either positive or negative. If there is a CYL value for an eye, there must be an Axis value for that eye.\r\r\nIf \"DS\" or \"SPH\" or \"spherical\" is noted in the CYL space on your prescription, you have no astigmatism in that eye.  In that case, enter 0.00 in both the CYL and Axis.\r\r\nOD-CYL is cylinder correction for your right eye.\r\r\nOS-CYL is cylinder correction for your left eye.",
+          "SERVICE": "Servicio",
+          "BUST_CONTENT": "Wear an unpadded bra (your dress will have a built-in bra).\r\r\nPull tape across the fullest part of the bust (at nipple level).",
+          "SIZE_INFO": "Size Info",
+          "SIZE_INFO_DESC": "*These charts are for reference only. Fit may vary depending on the construction, materials and manufacturer.",
+          "ITEM_CONDITION_TIP": "Condizioni",
+          "BTN_CANCEL": "Cancel",
+          "HOW_TO_MEASURE": "How to Measure",
+          "SIZE_INFO_TIP": "once you know your body measurements,consult the Size Chart on the product pages for actual item measurements to determine which size you should purchase.",
+          "FLOOR_PROMPT": "Please select the hollow to floor measurement.",
+          "FLOOR_TITLE": "FLoor",
+          "SIZE_INFO_COMPARE_TIP": "To choose the correct size for you measure your body as follows",
+          "UNIT_PROMPT": "Please select unit.",
+          "SELECT": "Seleziona",
+          "HIPS_TITLE": "Hips",
+          "HEIGHT_PROMPT": "Please select the your shoes' heel height.",
+          "WAIST_PROMPT": "Please select your waist size.",
+          "BTN_SAVE": "Save",
+          "TITLE_OPTIONAL": "Garanzia di riparazione in {country} <span>(opzionale)</span>",
+          "SIZE_DIALOG_TITLE": "customsize",
+          "GLASSES_TIP": "Please provide the information from your medical prescription. If you have any special needs or have any questions, please contact the seller.",
+          "SIZE_CHART": "Size Chart",
+          "HIPS_PROMPT": "Please select your hips size.",
+          "SPH_PROMPT": "It looks like you forgot to enter your prescription. Please fill in the sphere, cylinder and axis.",
+          "HIPS_CONTENT": "Find the widest part of the hips or run the measurement tape around your hipbone.",
+          "BUST_TITLE": "Bust",
+          "AXIS": "AXS, or Axis, refers to the angle of the correction for the astigmatism in the eye (if one exists) from 1 to 180.  If there is an Axis value on an eye, there must be a CYL (Cylinder) value on that eye.  If there is no Cylinder value or if the value is zero, the OD Axis value is entered as 0.00.\r\r\nThe Axis value is usually written as 3 digits, which means if your Axis value is 5, it is often written as 005. This Axis value is still 5, regardless of how it is displayed.\r\r\nOD Axis is Axis correction for your right eye.\r\r\nOS Axis is Axis correction for your left eye."
+        },
+        "id": 0,
+        "name": "SKUModule",
+        "productSKUPropertyList": [
+          {
+            "isShowTypeColor": true,
+            "order": 1,
+            "showType": "colour_atla",
+            "showTypeColor": true,
+            "skuPropertyId": 14,
+            "skuPropertyName": "Colore",
+            "skuPropertyValues": [
+              {
+                "propertyValueDefinitionName": "black",
+                "propertyValueDisplayName": "black",
+                "propertyValueId": 193,
+                "propertyValueIdLong": 193,
+                "propertyValueName": "Black",
+                "skuColorValue": "#000000",
+                "skuPropertyImagePath": "https://ae01.alicdn.com/kf/HTB1uGL0aTjxK1Rjy0Fnq6yBaFXa1/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_640x640.jpg",
+                "skuPropertyImageSummPath": "https://ae01.alicdn.com/kf/HTB1uGL0aTjxK1Rjy0Fnq6yBaFXa1/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_50x50.jpg",
+                "skuPropertyTips": "black",
+                "skuPropertyValueShowOrder": 1,
+                "skuPropertyValueTips": "black"
+              },
+              {
+                "propertyValueDefinitionName": "blue",
+                "propertyValueDisplayName": "blue",
+                "propertyValueId": 173,
+                "propertyValueIdLong": 173,
+                "propertyValueName": "Blu",
+                "skuColorValue": "#0080FF",
+                "skuPropertyImagePath": "https://ae01.alicdn.com/kf/HTB1xoN7aND1gK0jSZFsq6zldVXad/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_640x640.jpg",
+                "skuPropertyImageSummPath": "https://ae01.alicdn.com/kf/HTB1xoN7aND1gK0jSZFsq6zldVXad/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_50x50.jpg",
+                "skuPropertyTips": "blue",
+                "skuPropertyValueShowOrder": 1,
+                "skuPropertyValueTips": "blue"
+              },
+              {
+                "propertyValueDefinitionName": "gray",
+                "propertyValueDisplayName": "gray",
+                "propertyValueId": 691,
+                "propertyValueIdLong": 691,
+                "propertyValueName": "Grigio",
+                "skuColorValue": "#999",
+                "skuPropertyImagePath": "https://ae01.alicdn.com/kf/HTB1meL2aLvsK1Rjy0Fiq6zwtXXas/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_640x640.jpg",
+                "skuPropertyImageSummPath": "https://ae01.alicdn.com/kf/HTB1meL2aLvsK1Rjy0Fiq6zwtXXas/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_50x50.jpg",
+                "skuPropertyTips": "gray",
+                "skuPropertyValueShowOrder": 1,
+                "skuPropertyValueTips": "gray"
+              },
+              {
+                "propertyValueDefinitionName": "green",
+                "propertyValueDisplayName": "green",
+                "propertyValueId": 175,
+                "propertyValueIdLong": 175,
+                "propertyValueName": "green",
+                "skuColorValue": "#007000",
+                "skuPropertyImagePath": "https://ae01.alicdn.com/kf/HTB172B9aRr0gK0jSZFnq6zRRXXag/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_640x640.jpg",
+                "skuPropertyImageSummPath": "https://ae01.alicdn.com/kf/HTB172B9aRr0gK0jSZFnq6zRRXXag/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_50x50.jpg",
+                "skuPropertyTips": "green",
+                "skuPropertyValueShowOrder": 1,
+                "skuPropertyValueTips": "green"
+              },
+              {
+                "propertyValueDefinitionName": "pink",
+                "propertyValueDisplayName": "pink",
+                "propertyValueId": 1052,
+                "propertyValueIdLong": 1052,
+                "propertyValueName": "Colore rosa",
+                "skuColorValue": "#FFC0CB",
+                "skuPropertyImagePath": "https://ae01.alicdn.com/kf/HTB1aWV_aQH0gK0jSZPiq6yvapXaR/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_640x640.jpg",
+                "skuPropertyImageSummPath": "https://ae01.alicdn.com/kf/HTB1aWV_aQH0gK0jSZPiq6yvapXaR/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_50x50.jpg",
+                "skuPropertyTips": "pink",
+                "skuPropertyValueShowOrder": 1,
+                "skuPropertyValueTips": "pink"
+              },
+              {
+                "propertyValueDefinitionName": "purple",
+                "propertyValueDisplayName": "purple",
+                "propertyValueId": 496,
+                "propertyValueIdLong": 496,
+                "propertyValueName": "Viola",
+                "skuColorValue": "#6C3365",
+                "skuPropertyImagePath": "https://ae01.alicdn.com/kf/HTB1mUJ7aND1gK0jSZFsq6zldVXaC/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_640x640.jpg",
+                "skuPropertyImageSummPath": "https://ae01.alicdn.com/kf/HTB1mUJ7aND1gK0jSZFsq6zldVXaC/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_50x50.jpg",
+                "skuPropertyTips": "purple",
+                "skuPropertyValueShowOrder": 1,
+                "skuPropertyValueTips": "purple"
+              },
+              {
+                "propertyValueDefinitionName": "yellow",
+                "propertyValueDisplayName": "yellow",
+                "propertyValueId": 366,
+                "propertyValueIdLong": 366,
+                "propertyValueName": "Giallo",
+                "skuColorValue": "#FFFF00",
+                "skuPropertyImagePath": "https://ae01.alicdn.com/kf/HTB1_d88aUH1gK0jSZSyq6xtlpXam/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_640x640.jpg",
+                "skuPropertyImageSummPath": "https://ae01.alicdn.com/kf/HTB1_d88aUH1gK0jSZSyq6xtlpXam/Maryigean-Maglia-Modello-di-Stampa-Leggings-Leggings-di-Fitness-Per-Le-Donne-Sportive-Allenamento-Push-Up.jpg_50x50.jpg",
+                "skuPropertyTips": "yellow",
+                "skuPropertyValueShowOrder": 1,
+                "skuPropertyValueTips": "yellow"
+              }
+            ]
+          },
+          {
+            "isShowTypeColor": false,
+            "order": 2,
+            "showType": "none",
+            "showTypeColor": false,
+            "skuPropertyId": 5,
+            "skuPropertyName": "Dimensioni",
+            "skuPropertyValues": [
+              {
+                "propertyValueDisplayName": "S",
+                "propertyValueId": 100014064,
+                "propertyValueIdLong": 100014064,
+                "propertyValueName": "S",
+                "skuPropertyTips": "S",
+                "skuPropertyValueShowOrder": 2,
+                "skuPropertyValueTips": "S"
+              },
+              {
+                "propertyValueDisplayName": "M.",
+                "propertyValueId": 361386,
+                "propertyValueIdLong": 361386,
+                "propertyValueName": "M.",
+                "skuPropertyTips": "M.",
+                "skuPropertyValueShowOrder": 2,
+                "skuPropertyValueTips": "M."
+              },
+              {
+                "propertyValueDisplayName": "L",
+                "propertyValueId": 361385,
+                "propertyValueIdLong": 361385,
+                "propertyValueName": "L",
+                "skuPropertyTips": "L",
+                "skuPropertyValueShowOrder": 2,
+                "skuPropertyValueTips": "L"
+              },
+              {
+                "propertyValueDisplayName": "XL",
+                "propertyValueId": 100014065,
+                "propertyValueIdLong": 100014065,
+                "propertyValueName": "XL",
+                "skuPropertyTips": "XL",
+                "skuPropertyValueShowOrder": 2,
+                "skuPropertyValueTips": "XL"
+              }
+            ]
+          }
+        ],
+        "skuPriceList": [
+          {
+            "skuAttr": "14:193#black5:361386",
+            "skuId": 66618494090,
+            "skuPropIds": "193,361386",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25513,
+              "bulkOrder": 10,
+              "inventory": 25513,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:193#black5:361385",
+            "skuId": 66618494091,
+            "skuPropIds": "193,361385",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25572,
+              "bulkOrder": 10,
+              "inventory": 25572,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:193#black5:100014064",
+            "skuId": 66618494089,
+            "skuPropIds": "193,100014064",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25502,
+              "bulkOrder": 10,
+              "inventory": 25502,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:691#gray5:361386",
+            "skuId": 66618494094,
+            "skuPropIds": "691,361386",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25674,
+              "bulkOrder": 10,
+              "inventory": 25674,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:691#gray5:361385",
+            "skuId": 66618494095,
+            "skuPropIds": "691,361385",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25669,
+              "bulkOrder": 10,
+              "inventory": 25669,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:193#black5:100014065",
+            "skuId": 66618494092,
+            "skuPropIds": "193,100014065",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25588,
+              "bulkOrder": 10,
+              "inventory": 25588,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:691#gray5:100014064",
+            "skuId": 66618494093,
+            "skuPropIds": "691,100014064",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25669,
+              "bulkOrder": 10,
+              "inventory": 25669,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:175#green5:100014064",
+            "skuId": 10000000040395624,
+            "skuPropIds": "175,100014064",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25679,
+              "bulkOrder": 10,
+              "inventory": 25679,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:175#green5:361386",
+            "skuId": 10000000040395624,
+            "skuPropIds": "175,361386",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25676,
+              "bulkOrder": 10,
+              "inventory": 25676,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:175#green5:361385",
+            "skuId": 10000000040395626,
+            "skuPropIds": "175,361385",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25678,
+              "bulkOrder": 10,
+              "inventory": 25678,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:175#green5:100014065",
+            "skuId": 10000000040395628,
+            "skuPropIds": "175,100014065",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 23553,
+              "bulkOrder": 10,
+              "inventory": 23553,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:366#yellow5:100014064",
+            "skuId": 10000000040395628,
+            "skuPropIds": "366,100014064",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25673,
+              "bulkOrder": 10,
+              "inventory": 25673,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:366#yellow5:361386",
+            "skuId": 10000000040395628,
+            "skuPropIds": "366,361386",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25672,
+              "bulkOrder": 10,
+              "inventory": 25672,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:366#yellow5:361385",
+            "skuId": 10000000040395630,
+            "skuPropIds": "366,361385",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25678,
+              "bulkOrder": 10,
+              "inventory": 25678,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:366#yellow5:100014065",
+            "skuId": 10000000040395632,
+            "skuPropIds": "366,100014065",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25678,
+              "bulkOrder": 10,
+              "inventory": 25678,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:173#blue5:100014064",
+            "skuId": 10000000040395616,
+            "skuPropIds": "173,100014064",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25676,
+              "bulkOrder": 10,
+              "inventory": 25676,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:173#blue5:361386",
+            "skuId": 10000000040395616,
+            "skuPropIds": "173,361386",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25670,
+              "bulkOrder": 10,
+              "inventory": 25670,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:691#gray5:100014065",
+            "skuId": 66618494096,
+            "skuPropIds": "691,100014065",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25673,
+              "bulkOrder": 10,
+              "inventory": 25673,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:173#blue5:361385",
+            "skuId": 10000000040395618,
+            "skuPropIds": "173,361385",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25674,
+              "bulkOrder": 10,
+              "inventory": 25674,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:173#blue5:100014065",
+            "skuId": 10000000040395620,
+            "skuPropIds": "173,100014065",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 25671,
+              "bulkOrder": 10,
+              "inventory": 25671,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:1052#pink5:100014064",
+            "skuId": 10000000040395620,
+            "skuPropIds": "1052,100014064",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 23544,
+              "bulkOrder": 10,
+              "inventory": 23544,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:1052#pink5:361386",
+            "skuId": 10000000040395620,
+            "skuPropIds": "1052,361386",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 23537,
+              "bulkOrder": 10,
+              "inventory": 23537,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:1052#pink5:361385",
+            "skuId": 10000000040395622,
+            "skuPropIds": "1052,361385",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 23551,
+              "bulkOrder": 10,
+              "inventory": 23551,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:1052#pink5:100014065",
+            "skuId": 10000000040395624,
+            "skuPropIds": "1052,100014065",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 23542,
+              "bulkOrder": 10,
+              "inventory": 23542,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:496#purple5:100014064",
+            "skuId": 10000000040395612,
+            "skuPropIds": "496,100014064",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 23550,
+              "bulkOrder": 10,
+              "inventory": 23550,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:496#purple5:361386",
+            "skuId": 10000000040395612,
+            "skuPropIds": "496,361386",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 23550,
+              "bulkOrder": 10,
+              "inventory": 23550,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:496#purple5:361385",
+            "skuId": 10000000040395614,
+            "skuPropIds": "496,361385",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 23549,
+              "bulkOrder": 10,
+              "inventory": 23549,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          },
+          {
+            "skuAttr": "14:496#purple5:100014065",
+            "skuId": 10000000040395616,
+            "skuPropIds": "496,100014065",
+            "skuVal": {
+              "actSkuBulkCalPrice": "5.38",
+              "actSkuCalPrice": "5.66",
+              "actSkuDisplayBulkPrice": "US $5.38",
+              "actSkuMultiCurrencyBulkPrice": "5.38",
+              "actSkuMultiCurrencyCalPrice": "5.66",
+              "actSkuMultiCurrencyDisplayPrice": "5.66",
+              "availQuantity": 23551,
+              "bulkOrder": 10,
+              "inventory": 23551,
+              "isActivity": true,
+              "optionalWarrantyPrice": [],
+              "skuActivityAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $5.66",
+                "value": 5.66
+              },
+              "skuAmount": {
+                "currency": "USD",
+                "formatedAmount": "US $8.99",
+                "value": 8.99
+              },
+              "skuBulkCalPrice": "8.54",
+              "skuCalPrice": "8.99",
+              "skuDisplayBulkPrice": "US $8.54",
+              "skuMultiCurrencyBulkPrice": "8.54",
+              "skuMultiCurrencyCalPrice": "8.99",
+              "skuMultiCurrencyDisplayPrice": "8.99"
+            }
+          }
+        ],
+        "warrantyDetailJson": "[]"
+      },
+      "specsModule": {
+        "features": {},
+        "i18nMap": {},
+        "id": 0,
+        "name": "SpecsModule",
+        "props": [
+          {
+            "attrName": "Marca",
+            "attrNameId": 2,
+            "attrValue": "maryigean",
+            "attrValueId": "203466800"
+          },
+          {
+            "attrName": "Tipo del tessuto",
+            "attrNameId": 100002012,
+            "attrValue": "Denim",
+            "attrValueId": "100005990"
+          },
+          {
+            "attrName": "Numero modello",
+            "attrNameId": 3,
+            "attrValue": "7009",
+            "attrValueId": "-1"
+          },
+          {
+            "attrName": "Sesso",
+            "attrNameId": 284,
+            "attrValue": "WOMEN",
+            "attrValueId": "494"
+          },
+          {
+            "attrName": "Lunghezza",
+            "attrNameId": 200006452,
+            "attrValue": "Caviglia-Lunghezza",
+            "attrValueId": "200660947"
+          },
+          {
+            "attrName": "Stile",
+            "attrNameId": 326,
+            "attrValue": "Sexy & Club",
+            "attrValueId": "200004463"
+          },
+          {
+            "attrName": "Materiale",
+            "attrNameId": 10,
+            "attrValue": "spandex",
+            "attrValueId": "100019017"
+          },
+          {
+            "attrName": "Materiale",
+            "attrNameId": 10,
+            "attrValue": "COTTON",
+            "attrValueId": "47"
+          },
+          {
+            "attrName": "Materiale",
+            "attrNameId": 10,
+            "attrValue": "Fibra di bambù",
+            "attrValueId": "7919"
+          },
+          {
+            "attrName": "Tipo Vita",
+            "attrNameId": 200000852,
+            "attrValue": "Alto",
+            "attrValueId": "200001033"
+          },
+          {
+            "attrName": "Spessore",
+            "attrNameId": 200001085,
+            "attrValue": "STANDARD",
+            "attrValueId": "200005943"
+          },
+          {
+            "attrName": "Tipo di articolo",
+            "attrNameId": 200000137,
+            "attrValue": "legare gambe",
+            "attrValueId": "1903"
+          },
+          {
+            "attrName": "Tipo motivo",
+            "attrNameId": 200000329,
+            "attrValue": "Fish Scale",
+            "attrValueId": "200744478"
+          },
+          {
+            "attrName": "Product Category",
+            "attrNameId": -1,
+            "attrValue": "One-piece pants, leggings, maternity leggings",
+            "attrValueId": "-1"
+          },
+          {
+            "attrName": "Pants length",
+            "attrNameId": -1,
+            "attrValue": "Nine pants",
+            "attrValueId": "-1"
+          },
+          {
+            "attrName": "Main fabric component 2",
+            "attrNameId": -1,
+            "attrValue": "Polyester fiber (polyester)",
+            "attrValueId": "-1"
+          },
+          {
+            "attrName": "Lining ingredient",
+            "attrNameId": -1,
+            "attrValue": "Spandex",
+            "attrValueId": "-1"
+          },
+          {
+            "attrName": "popular elements",
+            "attrNameId": -1,
+            "attrValue": "Printing/printing",
+            "attrValueId": "-1"
+          },
+          {
+            "attrName": "Style",
+            "attrNameId": -1,
+            "attrValue": "Pencil pants / pants",
+            "attrValueId": "-1"
+          },
+          {
+            "attrName": "Fabric name",
+            "attrNameId": -1,
+            "attrValue": "Milk silk",
+            "attrValueId": "-1"
+          },
+          {
+            "attrName": "Features",
+            "attrNameId": -1,
+            "attrValue": "Slim, slim, deodorant, hip",
+            "attrValueId": "-1"
+          }
+        ]
+      },
+      "storeModule": {
+        "companyId": 243506668,
+        "countryCompleteName": "China",
+        "detailPageUrl": "//it.aliexpress.com/item/32968792074.html",
+        "esRetailOrConsignment": false,
+        "features": {},
+        "feedbackMessageServer": "//message.aliexpress.com",
+        "feedbackServer": "//feedback.aliexpress.com",
+        "followed": false,
+        "followingNumber": 0,
+        "hasStore": true,
+        "hasStoreHeader": true,
+        "hideCustomerService": false,
+        "i18nMap": {
+          "COUSTOMER_SERVICE": "Assistenza clienti",
+          "VISIT_STORE": "Vedi il mio negozio",
+          "CONTACT_SELLER": "Contatti",
+          "FOLLOWING_STATE": "Elementi seguiti",
+          "UNFOLLOWING_STATE": "Segui",
+          "POSITIVE_FEEDBACK": "di riscontri positivi",
+          "FOLLOWERS": "Follower",
+          "FOLLOWER": "Follower",
+          "TOP_SELLER": "Migliori marche",
+          "STORE_CATEGORIES": "Categorie di Negozio"
+        },
+        "id": 0,
+        "name": "StoreModule",
+        "openTime": "Jun 29, 2018",
+        "openedYear": 1,
+        "positiveNum": 1412,
+        "positiveRate": "95.6%",
+        "productId": 32968792074,
+        "province": "Zhejiang",
+        "sellerAdminSeq": 234273399,
+        "sessionId": "13dc6f5024c340388d770b05d11d416a",
+        "siteType": "ita",
+        "storeName": "Maryigean Store",
+        "storeNum": 4392072,
+        "storeURL": "//it.aliexpress.com/store/4392072",
+        "topBrandDescURL": "https://sale.aliexpress.com/topbrand.htm",
+        "topRatedSeller": false
+      },
+      "titleModule": {
+        "features": {},
+        "feedbackRating": {
+          "averageStar": "4.8",
+          "averageStarRage": "96.0",
+          "display": true,
+          "evarageStar": "4.8",
+          "evarageStarRage": "96.0",
+          "fiveStarNum": 106,
+          "fiveStarRate": "83",
+          "fourStarNum": 15,
+          "fourStarRate": "12",
+          "oneStarNum": 3,
+          "oneStarRate": "2",
+          "positiveRate": "82.9",
+          "threeStarNum": 3,
+          "threeStarRate": "2",
+          "totalValidNum": 128,
+          "trialReviewNum": 0,
+          "twoStarNum": 1,
+          "twoStarRate": "1"
+        },
+        "formatTradeCount": "515",
+        "i18nMap": {
+          "REVIEWS": "Recensioni",
+          "VIEW_ALL_REVIEWS": "Tutte le Recensioni",
+          "REVIEW": "Recensione",
+          "VIEW_OTHER_TITLE": "Visualizza titolo in più lingue (traduzione automatica)",
+          "VIEW_EN_TITLE": "Guarda titolo originale in inglese",
+          "FREEBIE_REVIEW": "Review Of Freebies ",
+          "FREEBIE_REVIEWS": "Recensioni degli omaggi"
+        },
+        "id": 0,
+        "name": "TitleModule",
+        "orig": false,
+        "origTitle": false,
+        "subject": "Maryigean Maglia Modello di Stampa Leggings Leggings di Fitness Per Le Donne Sportive Allenamento Push Up Leggins Elastico Sottile Pantaloni A Vita Alta",
+        "tradeCount": 515,
+        "tradeCountUnit": "ordini",
+        "trans": false,
+        "transTitle": false
+      },
+      "webEnv": {
+        "country": "EU",
+        "currency": "USD",
+        "env": {
+          "valMap": {
+            "g11n:locale": "",
+            "g11n:timezone": "",
+            "ua:device": "pc",
+            "user:id": "",
+            "page:name": "",
+            "page:app": "",
+            "ua:browser": "chrome",
+            "ua:platform": "other",
+            "user:type": "",
+            "page:id": "item_html",
+            "user:member": ""
+          },
+          "zone": "global_env"
+        },
+        "host": "it.aliexpress.com",
+        "hostname": "ae-glodetail-web010177051209.us.ot7",
+        "ip": "45.82.43.80",
+        "lang": "it_IT",
+        "language": "it",
+        "locale": "it_IT",
+        "reqHost": "https://it.aliexpress.com",
+        "site": "ita"
+      }
+    }
+}
+
